@@ -10,6 +10,7 @@ Network and security engineering practice projects
 - DHCP를 통한 IP 주소 자동 할당
 - HTTP 및 DNS 서버 기능 이해와 동작 검증
 
-## 3. 프로젝트 목록 (검증 및 문서화 진행 예정)
-- 지사 간 네트워크 구축
-- VPN 클라이언·서버 연결 **(정리 예정)**
+## 3. 프로젝트 현황
+
+- [지사 간 네트워크 구축 (진행 중)](01-multi-site-network/README.md)
+- VPN 클라이언트·서버 연결 (계획)
